@@ -1,0 +1,53 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.cursive{
+  font-family: 'Dancing Script', cursive;
+}
+.logo{
+  height: 40px;
+  width: 125px;
+}
+.btn-custom{
+  border: 0;
+}
+.form-color{
+  background: #fff;
+  border: 0;
+}
+.form-custom{
+  border-radius:10px;
+  transition: all 1s ease-in-out;
+}
+.form-custom:focus{
+  border: 1px solid #6c757d;
+  background: #6c757d;
+  color: white;
+  border-radius: 10px
+}
+.nav-hover{
+  transition: all .7s ease-in-out;
+}
+.nav-hover{
+  border-radius: 1px solid #f8f9fa;
+  color:#360736;
+}
+.h-90vh{
+  height: 90vh;
+}
+.bg-club{
+  background: #360736;
+}
+.text-club{
+  color: #360736;
+}
+.img-size-event{
+  height: 300px;
+  width: 500px;
+}
+.h-100vh{
+  min-height: 100vh;
+}
+.nav-btn{
+  line-height: 1 !important;
+}
